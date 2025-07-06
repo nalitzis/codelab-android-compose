@@ -389,6 +389,19 @@ fun SearchBarPreview() {
     }
 }
 
+@Composable
+fun Myfunction(modifier: Modifier = Modifier) {
+    Row {
+        
+    }
+}
+
+@Preview
+@Composable
+private fun MyfunctionPreview() {
+    
+}
+
 @Preview(showBackground = true, backgroundColor = 0xFFF5F0EE)
 @Composable
 fun AlignYourBodyElementPreview() {
